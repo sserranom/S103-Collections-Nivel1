@@ -1,0 +1,14 @@
+
+
+Usuario: Sergio Serrano  Puntuación: 1  Fecha: 2025-02-04
+Usuario: Juan de tal  Puntuación: 2  Fecha: 2025-02-04
+Usuario: Pedro de tal  Puntuación: 2  Fecha: 2025-02-04
+Usuario: David Gutierrez  Puntuación: 1  Fecha: 2025-02-04
+Usuario: Victor Serrano  Puntuación: 0  Fecha: 2025-02-04
+Usuario: sergio  Puntuación: 0  Fecha: 2025-02-05
+Usuario: Andrea Gutierrez  Puntuación: 1  Fecha: 2025-02-05
+Usuario: Jose Emilio  Puntuación: 1  Fecha: 2025-02-05
+Usuario: Guillermo Melgara  Puntuación: 0  Fecha: 2025-02-06
+Usuario: Sofia Salgado  Puntuación: 1  Fecha: 2025-02-06
+Usuario: Ivette Gutierrez  Puntuación: 1  Fecha: 2025-02-06
+Usuario: Sergio Serrano  Puntuación: 1  Fecha: 2025-02-06
