@@ -30,7 +30,7 @@ Si acierta se le suma un punto. Esta acción se repite 10 veces. Una vez solicit
 
 ***Instalacion***
 
--Puedes clonar el repositorio en tu equipo local, utilizando los siguientes comando: https://github.com/sserranom/S102-Exceptions-Nivel2.git 
+-Puedes clonar el repositorio en tu equipo local, utilizando los siguientes comando: https://github.com/sserranom/S103-Collections-Nivel1.git 
 Abre el proyecto en tu IDE y ejecuta cada uno de los ejercicios el programa imprime en consola el requerimiento de cada uno de los ejercicios.
 
 ***Desplieque***
