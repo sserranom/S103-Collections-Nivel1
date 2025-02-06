@@ -8,10 +8,7 @@ public class Main {
 		CountryQuiz quiz = new CountryQuiz(countries);
 
 		countries.loadCountries();
-		quiz.StarQuiz();
-		
-			
+		quiz.startQuiz();
 	}
-		
 
 }

@@ -1,26 +1,26 @@
 package Ejercicio3;
 
 public class Country {
-	
+
 	private String countryName;
 	private String capitalCity;
-	
+
 	public Country(String countryName, String capitalCity) {
 		this.countryName = countryName;
-		this.capitalCity = capitalCity;	
+		this.capitalCity = capitalCity;
 	}
-	
+
 	public String getCountryName() {
-		return countryName;	
+		return countryName;
 	}
-	
+
 	public String getCapitalCity() {
 		return capitalCity;
 	}
-	
-	 @Override
+
+	@Override
 	public String toString() {
-	    return countryName + ": " + capitalCity;
-	    }
-	
+		return countryName + ": " + capitalCity;
+	}
+
 }
